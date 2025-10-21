@@ -15,7 +15,11 @@ footer {
 }
 
 #logo {
+  color:#fff;
   text-align: center;
+}
+#logo a {
+  color:#ffffff;
 }
 
 header {
